@@ -1,0 +1,10 @@
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_0607\GERI_stage_xyz\bin\Release\GERI_stage_xyz.exe.config
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_0607\GERI_stage_xyz\bin\Release\GERI_stage_xyz.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_0607\GERI_stage_xyz\bin\Release\GERI_stage_xyz.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_0607\GERI_stage_xyz\obj\Release\GERI_stage_xyz.csprojAssemblyReference.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_0607\GERI_stage_xyz\obj\Release\GERI_stage_xyz.Form1.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_0607\GERI_stage_xyz\obj\Release\GERI_stage_xyz.Properties.Resources.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_0607\GERI_stage_xyz\obj\Release\GERI_stage_xyz.csproj.GenerateResource.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_0607\GERI_stage_xyz\obj\Release\GERI_stage_xyz.csproj.CoreCompileInputs.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_0607\GERI_stage_xyz\obj\Release\GERI_stage_xyz.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_0607\GERI_stage_xyz\obj\Release\GERI_stage_xyz.pdb

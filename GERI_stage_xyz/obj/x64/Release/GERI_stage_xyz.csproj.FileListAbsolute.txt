@@ -1,0 +1,57 @@
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_shutter_0614\GERI_stage_xyz\bin\x64\Release\GERI_stage_xyz.exe.config
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_shutter_0614\GERI_stage_xyz\bin\x64\Release\GERI_stage_xyz.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_shutter_0614\GERI_stage_xyz\bin\x64\Release\GERI_stage_xyz.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_shutter_0614\GERI_stage_xyz\bin\x64\Release\Thorlabs.MotionControl.DeviceManagerCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_shutter_0614\GERI_stage_xyz\bin\x64\Release\Thorlabs.MotionControl.GenericMotorCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_shutter_0614\GERI_stage_xyz\bin\x64\Release\Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_shutter_0614\GERI_stage_xyz\bin\x64\Release\Thorlabs.MotionControl.KCube.SolenoidCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_shutter_0614\GERI_stage_xyz\bin\x64\Release\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_shutter_0614\GERI_stage_xyz\bin\x64\Release\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_shutter_0614\GERI_stage_xyz\bin\x64\Release\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_shutter_0614\GERI_stage_xyz\bin\x64\Release\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_shutter_0614\GERI_stage_xyz\obj\x64\Release\GERI_stage_xyz.csproj.AssemblyReference.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_shutter_0614\GERI_stage_xyz\obj\x64\Release\GERI_stage_xyz.Form1.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_shutter_0614\GERI_stage_xyz\obj\x64\Release\GERI_stage_xyz.Properties.Resources.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_shutter_0614\GERI_stage_xyz\obj\x64\Release\GERI_stage_xyz.csproj.GenerateResource.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_shutter_0614\GERI_stage_xyz\obj\x64\Release\GERI_stage_xyz.csproj.CoreCompileInputs.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_shutter_0614\GERI_stage_xyz\obj\x64\Release\GERI_stage_xyz.csproj.CopyComplete
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_shutter_0614\GERI_stage_xyz\obj\x64\Release\GERI_stage_xyz.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\GERI_stage_xyz_shutter_0614\GERI_stage_xyz\obj\x64\Release\GERI_stage_xyz.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\3. GERI_stage_xyz_shutter_1028\GERI_stage_xyz\bin\x64\Release\GERI_stage_xyz.exe.config
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\3. GERI_stage_xyz_shutter_1028\GERI_stage_xyz\bin\x64\Release\GERI_stage_xyz.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\3. GERI_stage_xyz_shutter_1028\GERI_stage_xyz\bin\x64\Release\GERI_stage_xyz.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\3. GERI_stage_xyz_shutter_1028\GERI_stage_xyz\bin\x64\Release\Thorlabs.MotionControl.DeviceManagerCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\3. GERI_stage_xyz_shutter_1028\GERI_stage_xyz\bin\x64\Release\Thorlabs.MotionControl.GenericMotorCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\3. GERI_stage_xyz_shutter_1028\GERI_stage_xyz\bin\x64\Release\Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\3. GERI_stage_xyz_shutter_1028\GERI_stage_xyz\bin\x64\Release\Thorlabs.MotionControl.KCube.SolenoidCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\3. GERI_stage_xyz_shutter_1028\GERI_stage_xyz\bin\x64\Release\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\3. GERI_stage_xyz_shutter_1028\GERI_stage_xyz\bin\x64\Release\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\3. GERI_stage_xyz_shutter_1028\GERI_stage_xyz\bin\x64\Release\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\3. GERI_stage_xyz_shutter_1028\GERI_stage_xyz\bin\x64\Release\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\3. GERI_stage_xyz_shutter_1028\GERI_stage_xyz\obj\x64\Release\GERI_stage_xyz.csproj.AssemblyReference.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\3. GERI_stage_xyz_shutter_1028\GERI_stage_xyz\obj\x64\Release\GERI_stage_xyz.Form1.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\3. GERI_stage_xyz_shutter_1028\GERI_stage_xyz\obj\x64\Release\GERI_stage_xyz.Properties.Resources.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\3. GERI_stage_xyz_shutter_1028\GERI_stage_xyz\obj\x64\Release\GERI_stage_xyz.csproj.GenerateResource.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\3. GERI_stage_xyz_shutter_1028\GERI_stage_xyz\obj\x64\Release\GERI_stage_xyz.csproj.CoreCompileInputs.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\3. GERI_stage_xyz_shutter_1028\GERI_stage_xyz\obj\x64\Release\GERI_stage_xyz.csproj.CopyComplete
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\3. GERI_stage_xyz_shutter_1028\GERI_stage_xyz\obj\x64\Release\GERI_stage_xyz.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\3. GERI_stage_xyz_shutter_1028\GERI_stage_xyz\obj\x64\Release\GERI_stage_xyz.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\4. GERI_stage_xyz_shutter_1101\GERI_stage_xyz\bin\x64\Release\GERI_stage_xyz.exe.config
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\4. GERI_stage_xyz_shutter_1101\GERI_stage_xyz\bin\x64\Release\GERI_stage_xyz.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\4. GERI_stage_xyz_shutter_1101\GERI_stage_xyz\bin\x64\Release\GERI_stage_xyz.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\4. GERI_stage_xyz_shutter_1101\GERI_stage_xyz\bin\x64\Release\Thorlabs.MotionControl.DeviceManagerCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\4. GERI_stage_xyz_shutter_1101\GERI_stage_xyz\bin\x64\Release\Thorlabs.MotionControl.GenericMotorCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\4. GERI_stage_xyz_shutter_1101\GERI_stage_xyz\bin\x64\Release\Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\4. GERI_stage_xyz_shutter_1101\GERI_stage_xyz\bin\x64\Release\Thorlabs.MotionControl.KCube.SolenoidCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\4. GERI_stage_xyz_shutter_1101\GERI_stage_xyz\bin\x64\Release\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\4. GERI_stage_xyz_shutter_1101\GERI_stage_xyz\bin\x64\Release\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\4. GERI_stage_xyz_shutter_1101\GERI_stage_xyz\bin\x64\Release\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\4. GERI_stage_xyz_shutter_1101\GERI_stage_xyz\bin\x64\Release\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\4. GERI_stage_xyz_shutter_1101\GERI_stage_xyz\obj\x64\Release\GERI_stage_xyz.csproj.AssemblyReference.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\4. GERI_stage_xyz_shutter_1101\GERI_stage_xyz\obj\x64\Release\GERI_stage_xyz.Form1.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\4. GERI_stage_xyz_shutter_1101\GERI_stage_xyz\obj\x64\Release\GERI_stage_xyz.Properties.Resources.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\4. GERI_stage_xyz_shutter_1101\GERI_stage_xyz\obj\x64\Release\GERI_stage_xyz.csproj.GenerateResource.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\4. GERI_stage_xyz_shutter_1101\GERI_stage_xyz\obj\x64\Release\GERI_stage_xyz.csproj.CoreCompileInputs.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\4. GERI_stage_xyz_shutter_1101\GERI_stage_xyz\obj\x64\Release\GERI_stage_xyz.csproj.CopyComplete
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\4. GERI_stage_xyz_shutter_1101\GERI_stage_xyz\obj\x64\Release\GERI_stage_xyz.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\2. GERI\1. 스크린 복제 시스템\4. GERI_stage_xyz_shutter_1101\GERI_stage_xyz\obj\x64\Release\GERI_stage_xyz.pdb
